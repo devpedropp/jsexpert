@@ -1,0 +1,16 @@
+módulo 7:
+
+refactoring.guru
+
+criar um projeto várias vezes e aplicar um pattern diferente a cada implementação
+
+https://www.startertutorials.com/patterns/select-design-pattern.html
+https://softwareengineering.stackexchange.com/a/227880
+https://www.startertutorials.com/patterns/select-design-pattern.html
+https://www.gofpatterns.com/design-patterns/module7/how-to-choose-designPattern.php
+https://en.wikipedia.org/wiki/Software_design_pattern
+
+módulo 8:
+
+https://docs.npmjs.com/about-semantic-versioning
+https://docs.npmjs.com/updating-packages-downloaded-from-the-registry
